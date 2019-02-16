@@ -1,8 +1,8 @@
 
 
 
-# 1.MAGENTO 2 HIDE PRICE
-Are looking for a personal approach to their customers? Our [Magento 2 Hide Price Extension](https://landofcoder.com/magento-2-hide-price.html/) helps you to hide price and  replace Add to Cart button with custom message or inquiry form in AJAX popup
+# 1. Free MAGENTO 2 HIDE PRICE
+Are looking for a personal approach to their customers? Our [Free Magento 2 Hide Price Extension](https://landofcoder.com/magento-2-hide-price.html/) helps you to hide price and  replace Add to Cart button with custom message or inquiry form in AJAX popup
 
 - Hide prices for guest customers
 - Hide prices from certain groups of customers
